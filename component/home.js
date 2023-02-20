@@ -154,7 +154,7 @@ export default home = ({ navigation }) => {
                       <View style={styles.addPizzaButton}>
                         <MaterialCommunityIcons
                           name="plus-thick"
-                          size={10}
+                          size={11}
                           color="black"
                         />
                       </View>
